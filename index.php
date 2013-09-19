@@ -380,7 +380,27 @@
           </div>
         </div>
       </div>
+      <div class="row">
+           <div class="span1 offset11" style="padding-bottom:10px;">
+                <a href="http://twitter.com/click3x"><img alt="Twitter" align="right" class="image_fix" src="img/twitterlogo.jpg" width="24"></a>
+                <a href="http://facebook.com/click3x"><img alt="Facebook" align="right" style="padding-right:4px;" class="image_fix" src="img/fblogo.jpg" width="24"></a>
+           </div>
+      </div>
+   
+  <footer>
+    <div class="row">
+         <div class="span3">
+              <a href="http://click3x.com"><img alt="Click 3X" align="left" class="image_fix" src="img/c3xlogo.jpg" width="40"></a>
+              <a href="http://clickfiremedia.com"><img alt="ClickFire Media" style="padding-left:14px;" align="left" class="image_fix" src="img/cfmlogo.jpg" width="90"></a>
+         </div>
+        <p>16 West 22nd St<br>New York, NY 10010<br>212.627.4472</p>
+    </div>
+  </footer>
     </div> <!-- /container -->        
+
+
+
+
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>

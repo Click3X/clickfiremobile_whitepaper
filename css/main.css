@@ -12,6 +12,9 @@
  div, ul li, ol li{
  	line-height: 27px;
  }
+ a{
+ 	color: #FF0000;
+ }
 .jumbotron{
 	padding: 0 20px 0px 20px;
 	background: #FFF;
@@ -86,9 +89,19 @@ li{
 	margin:0;
 }
 
+footer {
+	background-color: black;
+	padding: 20px;
+}
 
-
-
+footer p{
+	color:#ccc; 
+	padding:0; 
+	text-align:right; 
+	margin:0; 
+	letter-spacing:-.5px; 
+	line-height:16px;
+}
 
 
 
