@@ -47,12 +47,12 @@
         <div class="span12">
                 <p>In a very short amount of time, the mobile device has become the platform of choice for digital engagement. Whether it is a primary or second screen, the mobile platform is now integral to the consumption of video and interactive media. As this trend grows we've noticed a couple of things:</p>
           <div class="row withinrow">
-            <div class="span4">
+            <div class="span12">
               <div class="inner">
-                  <img src="img/owen.jpg" />
+                  <img id="ored" src="img/owen.jpg" />
               </div>
             </div>
-            <div class="span8">
+            <div class="span12">
               <div class="inner">
                
                 <ul>
