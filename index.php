@@ -45,15 +45,13 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="span12">
-                <p>In a very short amount of time, the mobile device has become the platform of choice for digital engagement. Whether it is a primary or second screen, the mobile platform is now integral to the consumption of video and interactive media. As this trend grows we've noticed a couple of things:</p>
-          <div class="row withinrow">
-            <div class="span12">
               <div class="inner">
                   <img id="ored" src="img/owen.jpg" />
               </div>
             </div>
             <div class="span12">
               <div class="inner">
+                <p>In a very short amount of time, the mobile device has become the platform of choice for digital engagement. Whether it is a primary or second screen, the mobile platform is now integral to the consumption of video and interactive media. As this trend grows we've noticed a couple of things:</p>
                
                 <ul>
                   <li>PC sales are declining for the first time due to the unprecedented growth of smartphones in it's various iterations. Large segments of the connected world - even middle class families - are ditching their desktops in favor of tablets, phablets and mobile devices for their internet access.</li>
@@ -66,8 +64,6 @@
                   While these numbers are very impressive, the real point is that ClickFire Media has proactively evolved its approach to creating content as much as it has evolved the way it consumes it. Our focus now is to ensure mobile compatibility. Site content and the entire digital presence should exist on any platform while maintaining a consistent visual and emotional experience. This evolved technical vision, paired with our long standing history of visionary creative, translates into rich content that can be viewed anywhere.</li>
                 </ul>
                </div>
-            </div>
-          </div>
         </div>
       </div>
       
@@ -370,16 +366,20 @@
       <div class="row">
         <div class="span12">
           <div class="inner">
+
             <h3>Conclusion</h3>
-
             <p>These are just some of the solutions we offer. We are also developing HTML5 mobile ad units, integrating Pinterest analytics systems, finding new and creative ways to integrate in-app advertising with technologies such as geo-location, and many other user engagement strategies. We would love to get your feedback and comments!</p>
-
-            <p>For more information:<br>
-            <a href="http://clickfiremedia.com" title="Visit ClickfireMedia.com">www.clickfiremedia.com</a><br>
-            online version of the white-paper and download link www.clickfiremobile.com email: <a href="mailto:anna@clickfire.com" title="Email Anna">anna@clickfiremedia.com</a></p>
+            <p>Check out our new site:<br>
+            <a href="http://clickfiremedia.com" title="Visit ClickfireMedia.com">www.clickfiremedia.com</a>
+            <p>To view as a PDF file:<br>
+              <a href="http://clickfiremobile.com/pdf/ClickfireMobile_Whitepaper_2013.pdf" title="View PDF">Clickfire Mobile Whitepaper</a>
+            </p>
+            <p>For more information, email <a href="mailto:anna@clickfire.com" title="Email Anna">Anna Browne</a>, our Director of Business Development.              
+            </p>
           </div>
         </div>
       </div>
+
       <div class="row">
            <div class="span1 offset11" style="padding-bottom:10px;">
                 <a href="http://twitter.com/click3x"><img alt="Twitter" align="right" class="image_fix" src="img/twitterlogo.jpg" width="24"></a>
@@ -387,20 +387,16 @@
            </div>
       </div>
    
-  <footer class="row">
-    <div class="span12">
-         <div class="span3">
-              <a href="http://click3x.com"><img alt="Click 3X" align="left" class="image_fix" src="img/c3xlogo.jpg" width="40"></a>
-              <a href="http://clickfiremedia.com"><img alt="ClickFire Media" style="padding-left:14px;" align="left" class="image_fix" src="img/cfmlogo.jpg" width="90"></a>
-         </div>
-        <p>16 West 22nd St<br>New York, NY 10010<br>212.627.4472</p>
-    </div>
-  </footer>
+
     </div> <!-- /container -->        
-
-
-
-
+      <footer class="container">
+<div id="footer_inner" class='row'>
+<div class="span12">                  <a href="http://click3x.com"><img alt="Click 3X" align="left" class="image_fix" src="img/c3xlogo.jpg" width="40"></a>
+                  <a href="http://clickfiremedia.com"><img alt="ClickFire Media" style="padding-left:14px;" align="left" class="image_fix" src="img/cfmlogo.jpg" width="90"></a>
+                  <p>16 West 22nd St<br>New York, NY 10010<br>212.627.4472</p>
+ </div>
+    </div>
+      </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>

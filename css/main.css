@@ -37,15 +37,19 @@
 	margin:0 0 15px 0;
 	max-width: 600px;
 }
+#ored{
+	margin-bottom: 14px;
+}
+
 h3{
 	display: inline-block;
 	font-family: 'PT Sans', sans-serif;
 	font-size: 18px;
 	background: #771111;
 	color: #FFF;
-	padding: 8px 26px 6px 16px;
+	padding: 8px 26px 7px 16px;
 	min-width: 209px;
-	line-height: 20px;
+	line-height: 23px;
 	margin: 20px 0 20px 0;
 	text-transform: uppercase;
 }
@@ -88,15 +92,22 @@ li{
 	padding:0;
 	margin:0;
 }
+footer{
 
-footer {
+	overflow: hidden;
+}
+
+#footer_inner {
 	background-color: black;
-	padding: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
 }
 
 footer p{
 	color:#ccc; 
-	padding:0; 
+	padding-right:10px; 
 	text-align:right; 
 	margin:0; 
 	letter-spacing:-.5px; 
