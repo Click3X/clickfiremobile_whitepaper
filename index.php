@@ -37,7 +37,7 @@
     <div class="jumbotron">
       <div class="container">
         <img src="img/header.gif" alt="ClickFire Media" width="100%" />
-        <h1>ClickFire Media and the Multi-PlatForm Digital Age</h1>
+        <h1>ClickFire Media and the Multi-PlatForm <nobr>Digital Age</nobr></h1>
       </div>
     </div>
 
@@ -80,7 +80,7 @@
                 <p>When brands and agencies think about the word "mobile", the first thing that comes to mind is a mobile app. Maybe they think about a mobile website, independent of the main execution. However at this stage, "mobile" is actually a set of platforms, technologies and techniques used to make digital content accessible on any device, and taking advantage of the unique opportunities that the mobile platforms provide.</p>
                 <p>At ClickFire Media, we have developed a suite of products and technologies to address the transition into a mobile world while still creating rich immersive experiences. At the beginning of each project, we evaluate the project holistically to determine the best practices for best execution. We call this: ClickFire Mobile.</p>
 
-                <h4>ClickFire Mobile Includes:</h4>
+                <h5>ClickFire Mobile Includes:</h5>
                 <ol>
                   <li>Many Platforms, One Site: Adaptive and responsive design applications using HTML5, including mobile- friendly e-commerce applications.</li>
                   <li>Vine and Instagram video within engaging and utilitarian environments.</li>
@@ -226,9 +226,9 @@
 
       <div class="row">
         <div class="span12 case-study">
-          <h5>CASE STUDY:<span>MOBILE APPS</span></h5>
+          <h5>CASE STUDY:<span>GEICO MOBILE APP</span></h5>
 
-          <div class="row within row">
+          <div class="row withinrow">
             <div class="span4">
               <div class="inner">
                  <img src="img/geico.jpg" />
@@ -243,7 +243,13 @@
               </div>
             </div>
           </div>
-          <div class="row within row">
+                </div>
+      </div>
+
+     <div class="row">
+      <div class="span12 case-study">
+        <h5>CASE STUDY:<span>CLOROX MOBILE APP</span></h5>
+          <div class="row withinrow">
             <div class="span8">
               <div class="inner">
                 <h6>Clorox Centennial Challenge</h6>
