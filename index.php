@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="css/main.css">
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,600' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
     </head>
     <body>
  
@@ -387,8 +387,8 @@
            </div>
       </div>
    
-  <footer>
-    <div class="row">
+  <footer class="row">
+    <div class="span12">
          <div class="span3">
               <a href="http://click3x.com"><img alt="Click 3X" align="left" class="image_fix" src="img/c3xlogo.jpg" width="40"></a>
               <a href="http://clickfiremedia.com"><img alt="ClickFire Media" style="padding-left:14px;" align="left" class="image_fix" src="img/cfmlogo.jpg" width="90"></a>
