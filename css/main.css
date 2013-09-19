@@ -15,6 +15,9 @@
  a{
  	color: #FF0000;
  }
+ a:hover{
+ 	color: #771111;
+ }
 .jumbotron{
 	padding: 0 20px 0px 20px;
 	background: #FFF;
@@ -94,10 +97,10 @@ li{
 }
 footer{
 
-	overflow: hidden;
+
 }
 
-#footer_inner {
+#footer_inner div{
 	background-color: black;
 	padding-top: 20px;
 	padding-right: 20px;
@@ -107,7 +110,7 @@ footer{
 
 footer p{
 	color:#ccc; 
-	padding-right:10px; 
+	padding-right:30px; 
 	text-align:right; 
 	margin:0; 
 	letter-spacing:-.5px; 

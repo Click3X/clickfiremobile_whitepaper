@@ -389,14 +389,15 @@
    
 
     </div> <!-- /container -->        
-      <footer class="container">
-<div id="footer_inner" class='row'>
-<div class="span12">                  <a href="http://click3x.com"><img alt="Click 3X" align="left" class="image_fix" src="img/c3xlogo.jpg" width="40"></a>
-                  <a href="http://clickfiremedia.com"><img alt="ClickFire Media" style="padding-left:14px;" align="left" class="image_fix" src="img/cfmlogo.jpg" width="90"></a>
-                  <p>16 West 22nd St<br>New York, NY 10010<br>212.627.4472</p>
- </div>
-    </div>
-      </footer>
+    <footer class="container">
+      <div id="footer_inner" class='row'>
+        <div class="span12">                  
+          <a href="http://click3x.com"><img alt="Click 3X" align="left" class="image_fix" src="img/c3xlogo.jpg" width="40"></a>
+          <a href="http://clickfiremedia.com"><img alt="ClickFire Media" style="padding-left:14px;" align="left" class="image_fix" src="img/cfmlogo.jpg" width="90"></a>
+          <p>16 West 22nd St<br>New York, NY 10010<br>212.627.4472</p>
+        </div>
+      </div>
+    </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
