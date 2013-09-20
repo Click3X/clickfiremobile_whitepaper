@@ -18,6 +18,11 @@
  a:hover{
  	color: #771111;
  }
+ a:hover img{
+    -webkit-box-shadow:  2px 2px 6px 0px rgba(0, 0, 0, .5);
+    box-shadow:  2px 2px 6px 0px rgba(0, 0, 0, .5);
+
+ }
 .jumbotron{
 	padding: 0 20px 0px 20px;
 	background: #FFF;
@@ -79,7 +84,7 @@ h5{
 	margin: 0 0 10px 0;
 	text-transform: uppercase;
 }
-h5 span{
+h5 a{
 	color: #FF0000;
 	padding-left: 5px;
 }

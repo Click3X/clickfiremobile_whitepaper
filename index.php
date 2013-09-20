@@ -6,7 +6,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Clickfire Mobile</title>
+        <link rel="shortcut icon" href="favicon.ico" />
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
@@ -126,7 +127,7 @@
 
 
         <div class="span12 case-study">
-          <h5>CASE STUDY:<span>ICUINPARIS.COM</span></h5>
+          <h5>CASE STUDY:<a href="http://icuinparis.com" target="_blank" title="Visit ICUinParis">ICUINPARIS.COM</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -136,7 +137,7 @@
             </div>
             <div class="span4">
               <div class="inner">
-                <img src="img/icu.jpg" />
+                <a href="http://icuinparis.com" target="_blank"><img src="img/icu.jpg" /></a>
               </div>
             </div>
           </div>
@@ -174,11 +175,11 @@
 
      <div class="row">
       <div class="span12 case-study">
-        <h5>CASE STUDY:<span>AT&T</span></h5>
+        <h5>CASE STUDY:<a href="http://clickfiremedia.com/#/home/_all/112" title="ATT Case Study" target="_blank">AT&T</a></h5>
         <div class="row withinrow">
           <div class="span4">
             <div class="inner">
-              <img src="img/att.jpg" />
+             <a href="http://clickfiremedia.com/#/home/_all/112" title="ATT Case Study" target="_blank"> <img src="img/att.jpg" /></a>
             </div>
           </div>
           <div class="span8">
@@ -222,12 +223,12 @@
 
       <div class="row">
         <div class="span12 case-study">
-          <h5>CASE STUDY:<span>GEICO MOBILE APP</span></h5>
+          <h5>CASE STUDY:<a href="http://clickfiremedia.com/#/home/_all/2540" title="Geico Case Study" target="_blank">GEICO MOBILE APP</a></h5>
 
           <div class="row withinrow">
             <div class="span4">
               <div class="inner">
-                 <img src="img/geico.jpg" />
+                 <a href="http://clickfiremedia.com/#/home/_all/2540" title="Geico Case Study" target="_blank"><img src="img/geico.jpg" /></a>
               </div>
             </div>
             <div class="span8">
@@ -244,7 +245,7 @@
 
      <div class="row">
       <div class="span12 case-study">
-        <h5>CASE STUDY:<span>CLOROX MOBILE APP</span></h5>
+        <h5>CASE STUDY:<a href="http://clickfiremedia.com/#/home/_all/401" title="Clorox Case Study" target="_blank">CLOROX MOBILE APP</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -256,7 +257,7 @@
             </div>
             <div class="span4">
               <div class="inner">
-                 <img src="img/clrx.jpg" />
+                 <a href="http://clickfiremedia.com/#/home/_all/401" title="Clorox Case Study" target="_blank"><img src="img/clrx.jpg" /></a>
               </div>
             </div>
           </div>
@@ -283,7 +284,7 @@
 
       <div class="row">
         <div class="span12 case-study">
-          <h5>CASE STUDY:<span>FRIENDTERVENTION</span></h5>
+          <h5>CASE STUDY:<a href="http://staging.click3x.com/friendtervention/www/" title="Visit Site" target="_blank">FRIENDTERVENTION</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -298,7 +299,7 @@
             </div>
             <div class="span4">
               <div class="inner">
-                <img src="img/fv.jpg" />
+                <a href="http://staging.click3x.com/friendtervention/www/" title="Visit Site" target="_blank"><img src="img/fv.jpg" /></a>
               </div>
             </div>
           </div>
@@ -317,7 +318,7 @@
 
       <div class="row">
         <div class="span12 case-study">
-            <h5>CASE STUDY:<span>ROXY</span></h5>
+            <h5>CASE STUDY:<a href="http://clickfiremedia.com/#/home/_all/850" title="Roxy Case Study" target="_blank">ROXY</a></h5>
             <div class="row withinrow">
               <div class="span8">
                 <div class="inner">
@@ -326,7 +327,7 @@
             </div>
             <div class="span4">
               <div class="inner">
-                <img src="img/rxy.jpg" />
+                <a href="http://clickfiremedia.com/#/home/_all/850" title="Roxy Case Study" target="_blank"><img src="img/rxy.jpg" /></a>
               </div>
             </div>
           </div>
@@ -336,11 +337,11 @@
 
       <div class="row">
         <div class="span12 case-study">
-            <h5>CASE STUDY:<span>CLICK3X.COM</span></h5>
+            <h5>CASE STUDY:<a href="http://click3x.com" title="Visit Click3x.com" target="_blank">CLICK3X.COM</a></h5>
             <div class="row withinrow">
             <div class="span4">
               <div class="inner">
-                  <img src="img/c3x.jpg" />
+                  <a href="http://click3x.com" title="Visit Click3x.com" target="_blank"><img src="img/c3x.jpg" /></a>
               </div>
             </div>
               <div class="span8">
