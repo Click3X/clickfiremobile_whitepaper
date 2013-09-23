@@ -284,7 +284,7 @@
 
       <div class="row">
         <div class="span12 case-study">
-          <h5>CASE STUDY:<a href="http://staging.click3x.com/friendtervention/www/" title="Visit Site" target="_blank">FRIENDTERVENTION</a></h5>
+          <h5>CASE STUDY:<a href="http://clickfiremedia.com/index.php/portfolio#/portfolio/_all/6" title="Visit Site" target="_blank">FRIENDTERVENTION</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -299,7 +299,7 @@
             </div>
             <div class="span4">
               <div class="inner">
-                <a href="http://staging.click3x.com/friendtervention/www/" title="Visit Site" target="_blank"><img src="img/fv.jpg" /></a>
+                <a href="http://clickfiremedia.com/index.php/portfolio#/portfolio/_all/6" title="Visit Site" target="_blank"><img src="img/fv.jpg" /></a>
               </div>
             </div>
           </div>
