@@ -375,7 +375,7 @@
             <p>For a PDF of this whitepaper:<br>
               <a href="http://clickfiremobile.com/pdf/ClickfireMobile_Whitepaper_2013.pdf" title="View PDF" target="_blank">Clickfire Mobile Whitepaper</a>
             </p>
-            <p>To contact us, email <a href="mailto:anna@clickfiremedia.com" title="Email Anna">Anna Browne</a>, our Director of Business Development.              
+            <p>To contact us, email <a href="mailto:anna@click3x.com" title="Email Anna">Anna Browne</a>, our Director of Business Development.              
             </p>
           </div>
         </div>
