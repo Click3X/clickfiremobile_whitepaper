@@ -24,9 +24,8 @@
 
  }
  a:hover img.no-shadow{
--webkit-box-shadow:  none;
+	-webkit-box-shadow:  none;
     box-shadow:  none;
-
  }
 .jumbotron{
 	padding: 0 20px 0px 20px;
