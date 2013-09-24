@@ -23,6 +23,11 @@
     box-shadow:  2px 2px 6px 0px rgba(0, 0, 0, .5);
 
  }
+ a:hover img.no-shadow{
+-webkit-box-shadow:  none;
+    box-shadow:  none;
+
+ }
 .jumbotron{
 	padding: 0 20px 0px 20px;
 	background: #FFF;

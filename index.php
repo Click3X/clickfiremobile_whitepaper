@@ -37,7 +37,7 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <img src="img/header.gif" alt="ClickFire Media" width="100%" />
+        <a href="http://clickfiremedia.com/_all/clickfire_mobile" title="ClickFire Mobile"><img class="no-shadow" src="img/header.gif" alt="ClickFire Media" width="100%" /></a>
         <h1>ClickFire Media and the Multi-PlatForm <nobr>Digital Age</nobr></h1>
       </div>
     </div>
@@ -47,7 +47,7 @@
       <div class="row">
         <div class="span12">
               <div class="inner">
-                  <img id="ored" src="img/owen.jpg" />
+                  <a href="http://clickfiremedia.com/_all/clickfire_mobile" title="ClickFire Mobile"><img id="ored" src="img/owen.jpg" /></a>
               </div>
             </div>
             <div class="span12">
