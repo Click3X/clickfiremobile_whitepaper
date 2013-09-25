@@ -412,6 +412,7 @@
           _gaq.push(['_setAccount', 'UA-3675967-1']);
           _gaq.push(['_setDomainName', 'clickfiremobile.com']);
           _gaq.push(['_trackPageview']);
+          _gaq.push(['_setAllowLinker', true]);
 
           (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
