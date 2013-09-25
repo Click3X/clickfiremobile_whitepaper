@@ -127,7 +127,7 @@
 
 
         <div class="span12 case-study">
-          <h5>CASE STUDY:<a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" target="_blank" title="Visit ICUinParis">ICUINPARIS.COM</a></h5>
+          <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" target="_blank" title="Visit ICUinParis">ICUINPARIS.COM</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -175,7 +175,7 @@
 
      <div class="row">
       <div class="span12 case-study">
-        <h5>CASE STUDY:<a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/112" title="ATT Case Study" target="_blank">AT&T</a></h5>
+        <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/112" title="ATT Case Study" target="_blank">AT&T</a></h5>
         <div class="row withinrow">
           <div class="span4">
             <div class="inner">
@@ -223,7 +223,7 @@
 
       <div class="row">
         <div class="span12 case-study">
-          <h5>CASE STUDY:<a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/2540" title="Geico Case Study" target="_blank">GEICO MOBILE APP</a></h5>
+          <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/2540" title="Geico Case Study" target="_blank">GEICO MOBILE APP</a></h5>
 
           <div class="row withinrow">
             <div class="span4">
@@ -245,7 +245,7 @@
 
      <div class="row">
       <div class="span12 case-study">
-        <h5>CASE STUDY:<a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/401" title="Clorox Case Study" target="_blank">CLOROX MOBILE APP</a></h5>
+        <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/401" title="Clorox Case Study" target="_blank">CLOROX MOBILE APP</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -284,7 +284,7 @@
 
       <div class="row">
         <div class="span12 case-study">
-          <h5>CASE STUDY:<a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/6" title="Visit Site" target="_blank">FRIENDTERVENTION</a></h5>
+          <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/6" title="Visit Site" target="_blank">FRIENDTERVENTION</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -318,7 +318,7 @@
 
       <div class="row">
         <div class="span12 case-study">
-            <h5>CASE STUDY:<a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/850" title="Roxy Case Study" target="_blank">ROXY</a></h5>
+            <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/850" title="Roxy Case Study" target="_blank">ROXY</a></h5>
             <div class="row withinrow">
               <div class="span8">
                 <div class="inner">
@@ -337,7 +337,7 @@
 
       <div class="row">
         <div class="span12 case-study">
-            <h5>CASE STUDY:<a href="http://click3x.com" title="Visit Click3x.com" target="_blank">CLICK3X.COM</a></h5>
+            <h5>CASE STUDY:<a class="case-study" href="http://click3x.com" title="Visit Click3x.com" target="_blank">CLICK3X.COM</a></h5>
             <div class="row withinrow">
             <div class="span4">
               <div class="inner">
@@ -373,7 +373,7 @@
             <p>To find out more about us:<br>
             <a href="http://clickfiremedia.com" title="Visit ClickfireMedia.com" target="_blank">www.clickfiremedia.com</a>
             <p>For a PDF of this whitepaper:<br>
-              <a href="http://clickfiremobile.com/pdf/ClickfireMobile_Whitepaper_2013.pdf" title="View PDF" target="_blank">Clickfire Mobile Whitepaper</a>
+              <a class="pdf-download" href="http://clickfiremobile.com/pdf/ClickfireMobile_Whitepaper_2013.pdf" title="View PDF" target="_blank">Clickfire Mobile Whitepaper</a>
             </p>
             <p>To contact us, email <a href="mailto:anna@click3x.com" title="Email Anna">Anna Browne</a>, our Director of Business Development.              
             </p>
@@ -408,13 +408,16 @@
         <script src="js/main.js"></script>
 
         <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-3675967-1']);
+          _gaq.push(['_setDomainName', 'clickfiremobile.com']);
+          _gaq.push(['_trackPageview']);
 
-          ga('create', 'UA-3675967-13', 'clickfiremobile.com');
-          ga('send', 'pageview');
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
         </script>
     </body>
 </html>
