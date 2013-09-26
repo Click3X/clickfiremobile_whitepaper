@@ -127,7 +127,7 @@
 
 
         <div class="span12 case-study">
-          <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" target="_blank" title="Visit ICUinParis">ICUINPARIS.COM</a></h5>
+          <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" onClick="_gaq.push(['_link', 'http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121']); return false;" target="_blank" title="Visit ICUinParis">ICUINPARIS.COM</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -137,7 +137,7 @@
             </div>
             <div class="span4">
               <div class="inner">
-                <a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" target="_blank"><img src="img/icu.jpg" /></a>
+                <a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" onClick="_gaq.push(['_link', 'http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121']); return false;" target="_blank"><img src="img/icu.jpg" /></a>
               </div>
             </div>
           </div>
