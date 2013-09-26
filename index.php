@@ -371,7 +371,7 @@
             <h3>Conclusion</h3>
             <p>These are just some of the solutions we offer. We are also developing HTML5 mobile ad units, integrating Pinterest analytics systems, finding new and creative ways to integrate in-app advertising with technologies such as geo-location, and many other user engagement strategies. We would love to get your feedback and comments!</p>
             <p>To find out more about us:<br>
-            <a href="http://clickfiremedia.com" title="Visit ClickfireMedia.com" target="_blank">www.clickfiremedia.com</a>
+            <a href="http://clickfiremedia.com/_all/clickfire_mobile" title="Visit ClickfireMedia.com" target="_blank">www.clickfiremedia.com</a>
             <p>For a PDF of this whitepaper:<br>
               <a class="pdf-download" href="http://clickfiremobile.com/whitepaper-download.php" title="View PDF" target="_blank">ClickFire Mobile Whitepaper</a>
             </p>
