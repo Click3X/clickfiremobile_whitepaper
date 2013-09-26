@@ -127,7 +127,7 @@
 
 
         <div class="span12 case-study">
-          <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" onClick="_gaq.push(['_link', 'http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121']); return false;" target="_blank" title="Visit ICUinParis">ICUINPARIS.COM</a></h5>
+          <h5>CASE STUDY:<a class="case-study" href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" target="_blank" title="Visit ICUinParis">ICUINPARIS.COM</a></h5>
           <div class="row withinrow">
             <div class="span8">
               <div class="inner">
@@ -137,7 +137,7 @@
             </div>
             <div class="span4">
               <div class="inner">
-                <a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" onClick="_gaq.push(['_link', 'http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121']); return false;" target="_blank"><img src="img/icu.jpg" /></a>
+                <a href="http://clickfiremedia.com/_all/clickfire_mobile#/_all/clickfire_mobile/121" target="_blank"><img src="img/icu.jpg" /></a>
               </div>
             </div>
           </div>
@@ -373,7 +373,7 @@
             <p>To find out more about us:<br>
             <a href="http://clickfiremedia.com" title="Visit ClickfireMedia.com" target="_blank">www.clickfiremedia.com</a>
             <p>For a PDF of this whitepaper:<br>
-              <a class="pdf-download" href="http://clickfiremobile.com/pdf/ClickfireMobile_Whitepaper_2013.pdf" title="View PDF" target="_blank">Clickfire Mobile Whitepaper</a>
+              <a class="pdf-download" href="http://clickfiremobile.com/whitepaper-download" title="View PDF" target="_blank">ClickFire Mobile Whitepaper</a>
             </p>
             <p>To contact us, email <a href="mailto:anna@click3x.com" title="Email Anna">Anna Browne</a>, our Director of Business Development.              
             </p>
