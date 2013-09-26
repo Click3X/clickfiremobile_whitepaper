@@ -75,8 +75,10 @@
 
         <script>
           $(function() {
-                window.location = "http://clickfiremobile.com/pdf/ClickfireMobile_Whitepaper_2013.pdf"; 
-                _gaq.push(['_trackEvent', 'O Red White Paper Events', 'PDF Auto Download', 'White Paper PDF Download']); });
+                
+                _gaq.push(['_trackEvent', 'O Red White Paper Events', 'PDF Auto Download', 'White Paper PDF Download']);
+                setTimeout(function(){window.location = "http://clickfiremobile.com/pdf/ClickfireMobile_Whitepaper_2013.pdf"; },1000);
+                
                 $("a.pdf-download").click(function($e){ _gaq.push(['_trackEvent', 'O Red White Paper Events', 'PDF Click Download', 'White Paper PDF Download']); });
           });
         </script>
