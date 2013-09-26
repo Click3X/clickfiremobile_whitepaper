@@ -373,7 +373,7 @@
             <p>To find out more about us:<br>
             <a href="http://clickfiremedia.com" title="Visit ClickfireMedia.com" target="_blank">www.clickfiremedia.com</a>
             <p>For a PDF of this whitepaper:<br>
-              <a class="pdf-download" href="http://clickfiremobile.com/whitepaper-download" title="View PDF" target="_blank">ClickFire Mobile Whitepaper</a>
+              <a class="pdf-download" href="http://clickfiremobile.com/whitepaper-download.php" title="View PDF" target="_blank">ClickFire Mobile Whitepaper</a>
             </p>
             <p>To contact us, email <a href="mailto:anna@click3x.com" title="Email Anna">Anna Browne</a>, our Director of Business Development.              
             </p>
